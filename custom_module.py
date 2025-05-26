@@ -15,4 +15,5 @@ def subtract(a,b):
         print(result)
 #print(subtract('c' , 'd'))
 
-  
+def divide(x, y):
+    return x/y
